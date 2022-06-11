@@ -1,0 +1,136 @@
+li:hover{
+    background-color: greenyellow;
+   color: greenyellow;
+}
+.navbar-toggler{
+  border: #fff;
+  background-color: aqua;
+}
+.header{
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+}
+.btnrounded-pill {
+    border-radius:30px;
+    height: 50px;
+    cursor: pointer;
+}
+.button1{
+  padding-top: 20px;
+}
+.part1{
+    padding: 64px 0px;
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.image1 {
+    height: 300px;
+    width: 200px;
+    background-position: center center;
+    
+}
+
+
+#bgimg {
+    
+    background-size: auto ;
+    background-repeat: no-repeat;
+    background-image:url('circles.svg');
+}
+
+.article1 {
+    width: 970px;
+    max-width: 100%;
+  }
+.part1 {
+    padding: 64px 0px;
+    align-items: flex-start;
+  }
+.text1 {
+    margin-bottom: 64px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 16px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+  }
+  ::after, ::before {
+    box-sizing: border-box;
+  }
+  .text3 {
+    margin: 32px 0px 0px;
+    padding: 0px;
+    font-size: 24px;
+  }
+  
+.text3 {
+    text-align: start;
+    max-width: 558px;
+  }  
+.buttond {
+    position: relative;
+    background-color: var(--background-base,#1ed760);
+    color: var(--text-base,#000000);
+    border-radius: 500px;
+    font-size: inherit;
+    padding: 14px 32px;
+}
+.buttonc {
+    text-transform: uppercase;
+  }
+  buttonb {
+    -webkit-box-pack: center;
+    justify-content: center;
+    text-decoration: none !important;
+  }
+.footer-text {
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 400px;
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+}
+.mh-footer-primary {
+    color: #fff;
+} 
+.footer-image{
+    width: 69%;
+    height: 9%; 
+}
+.mh-brand.smicon1 {
+    min-height: 346px;
+  }
+.mh-brand.smicon1 {
+    display: block;
+    box-sizing: border-box;
+  }  
+body {
+    
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+}
+.mh-brand.smicon1 {
+    width: 16.66666667%;
+  }
+.mh-brand.smicon1 {
+    padding: 0 15px;
+  }
+.footer.smicon1 {
+    font-size: 16px;
+    font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+  }  
+.mh-footer-hover, .mh-header-hover {
+    color: #1ed760;
+  }
+dd{
+  margin-bottom:5rem;
+  margin-left: 0; 
+}
